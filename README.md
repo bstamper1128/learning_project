@@ -1,6 +1,4 @@
-# learning_project
-# Stark State Software Developers Guild learning Repository
-
+<!DOCTYPE html>
 <html>
 <head>
 <title>Less than stellar facts</title>
